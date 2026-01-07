@@ -35,7 +35,7 @@ obj = Demo()
 
 # Deleting object explicitly (optional)
 del obj
-
+```
 ## 🧪 Output
 <img width="533" height="711" alt="image" src="https://github.com/user-attachments/assets/664043b2-2de4-4754-a7e4-b2505c3abb76" />
 
